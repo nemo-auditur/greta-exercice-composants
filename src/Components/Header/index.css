@@ -6,7 +6,8 @@
     padding: 20px;
 }
 
-/* Left part */
+/* Gestion des éléments à gauche et à droite du Header*/
+/* On utilise les mêmes styles puisqu'ils sont similaires */
 .sidesItemsContainer{
     display: flex;
     gap: 10px;

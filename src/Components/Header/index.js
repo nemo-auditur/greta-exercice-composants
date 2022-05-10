@@ -1,3 +1,4 @@
+// import des styles
 import "./index.css"
 
 const Header = () => {

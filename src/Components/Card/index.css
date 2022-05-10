@@ -1,9 +1,13 @@
+/* Card container  */
+/* Handle the horizontal scroll */
 .containerCard {
     background-color: pink;
     margin: 5px;
     flex: 0 0 auto;
     width: 30%;
 }
+
+/* Image containers  */
 
 .imageContainer {
     width: 100%;

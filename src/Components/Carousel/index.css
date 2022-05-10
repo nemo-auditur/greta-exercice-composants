@@ -1,3 +1,4 @@
+/* Carousel container */
 .containerCarousel {
     display: flex;
     overflow:scroll;
