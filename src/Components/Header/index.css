@@ -1,0 +1,19 @@
+/* container globlal */
+.containerHeader {
+    display: flex;
+    background-color: aquamarine;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Left part */
+.sidesItemsContainer{
+    display: flex;
+    gap: 10px;
+    background-color: #FFFF04;
+    padding: 5px;
+}
+
+.sidesItemsContainer span {
+    background-color: darkgreen;
+}

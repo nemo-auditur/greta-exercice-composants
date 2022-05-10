@@ -1,0 +1,5 @@
+.containerCarousel {
+    display: flex;
+    overflow:scroll;
+    background-color: red;
+}
